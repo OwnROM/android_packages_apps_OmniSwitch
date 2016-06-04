@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2013 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string name="start_on_boot_title">Start bij opstarten</string>
+	<string name="start_on_boot_summary">Start en schakel in bij opstarten</string>
+	<string name="opacity_title">Transparantie</string>
+	<string name="opacity_summary">Achtergrond transparantie van overlay zicht</string>
+	<string name="animate_title">Animatie</string>
+	<string name="animate_title_summary">Animatie zicht van overlay</string>
+	<string name="adjust_handle_help">Verplaats en verander grote van sleep hendel</string>
+	<string name="icon_size_normal">Normaal</string>
+	<string name="icon_size_small">Klein</string>
+	<string name="icon_size_large">Groot</string>
+	<string name="icon_size_title">Icoon grote</string>
+	<string name="cancel">Annuleer</string>
+	<string name="drag_handle_color_title">Kluer</string>
+	<string name="drag_handle_color_dialog_title">Kluer</string>
+	<string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> vrij</string>
+	<string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> gebruikt</string>
+	<string name="show_rambar_title">Laat beschikbare RAM zien</string>
+	<string name="show_rambar_summary">Laat beschikbare RAM zien met vrije en gebruikte gehuegen</string>
+	<string name="show_app_labels">Laat app naam zien</string>
+	<string name="show_app_labels_summary">Applicatie zal zichtbaar zijn onder het icoon</string>
+	<string name="category_drag_handle_title">Sleep hendel</string>
+	<string name="category_favorite_title">Favorieten</string>
+	<string name="favorite_apps_config_title">Beheer favorieten</string>
+	<string name="favorite_apps_config_summary">Geef apps op die in favorieten zicht komen</string>
+	<string name="favorite_apps_add_dialog_title">voeg apps to</string>
+	<string name="favorite_add">Voet \u2026 toe</string>
+	<string name="location_left">Links</string>
+	<string name="location_right">Rechts</string>
+	<string name="reset">Standaard</string>
+	<string name="toggle_last_app">Vorige app</string>
+	<string name="toggle_last_app_help">Ga terug naar vorige app</string>
+	<string name="kill_all_apps_help">Sluit alle apps</string>
+	<string name="kill_other_apps_help">Sluit alle andere apps</string>
+	<string name="settings_help">Instellingen</string>
+	<string name="home_help">Thuisscherm</string>
+	<string name="kill_all_apps">Sluit alles</string>
+	<string name="kill_other_apps">Sluit alle andere</string>
+	<string name="settings">Instellingen</string>
+	<string name="home">Thuisscherm</string>
+	<string name="buttons_title">Knoppen</string>
+	<string name="buttons_summary">Stel knoppen in die zichtbaar zijn in overlay</string>
+	<string name="auto_hide_handle">Automatisch verbergen</string>
+	<string name="auto_hide_handle_summary">Twee maal Swypen om overlay zichtbaar te maken</string>
+	<string name="no_recent_apps_title">Geen recente apps</string>
+	<string name="drag_handle_opacity_title">Transparantheid</string>
+	<string name="drag_handle_enable_title">Schakel in</string>
+	<string name="drag_handle_enable_summary">Schakel uit alleen als je andere heb ingeschakeld</string>
+	<string name="allapps_help">Apps scherm</string>
+	<string name="dim_behind_title">Dim achtergrond</string>
+	<string name="dim_behind_summary">Schakel transparantheid in op hele scherm</string>
+	<string name="gravity_title">Horizontale locatie</string>
+	<string name="gravity_center">Midden</string>
+	<string name="gravity_drag">Sleep hendel locatie</string>
+	<string name="dialog_pick_iconpack_title">Selecteer icoon pakket</string>
+	<string name="default_iconpack_title">Standaard iconen</string>
+	<string name="icon_packs_title">Icoon pakket</string>
+	<string name="no_iconpacks_summary">Geen icoon pakketten geinstalleerd</string>
+	<string name="icon_pack_title">Icoon pakket</string>
+	<string name="icon_pack_summary">Gebruik icoon pakket voor app iconen</string>
+	<string name="category_speed_switcher_title">Snelle omschakelaar</string>
+	<string name="speed_switcher_enable_summary">Lange tik op de hendel om te activeren</string>
+	<string name="speed_switcher_enable_title">Schakel in</string>
+	<string name="back">Terug</string>
+	<string name="back_help">Terug</string>
+	<string name="kill_current">Sluit huidige app</string>
+	<string name="kill_current_help">Sluit huidig geopende app</string>
+	<string name="speed_switch_color_summary">Blauw -recente apps. Groen - favoriten. Rood - acties</string>
+	<string name="speed_switch_color">Stel achtergrond kleuren in</string>
+	<string name="speed_switch_limit_summary">Stel ruimte in voor kleuren in</string>
+	<string name="speed_switch_limit">Stel ruimte in</string>
+	<string name="speed_switch_button_title">Knoppen</string>
+	<string name="speed_switch_button_summary">Stel knoppen in die zichtbaar zijn in overlay</string>
+	<string name="speed_switch_items_summary">Maximale items</string>
+	<string name="speed_switch_item">Stel itemlimiet in</string>
+	<string name="immersive_mode">Uitgebreide modes</string>
+	<string name="immersive_mode_help">Schakel in/uit</string>
+	<string name="package_add_favorite_title">Voeg toe aan favorieten</string>
+	<string name="package_remove_favorite_title">Verwijder van favorieten</string>
+	<string name="open_favorite_help">Open/Sluit favorieten zicht</string>
+	<string name="button_pos_title">Knoppen positie</string>
+	<string name="button_pos_top">Boven/Links</string>
+	<string name="button_pos_bottom">Onder/Rechts</string>
+	<string name="bg_style_solid_light">Ligt</string>
+	<string name="bg_style_solid_dark">Donker</string>
+	<string name="bg_style_transparent">Transparant</string>
+	<string name="bg_style_title">Achtergrond style</string>
+	<string name="lock_app_help">Pin huidige app</string>
+	<string name="app_filter_boot_title">Actief vanaf start</string>
+	<string name="layout_style_1">Horizontaal</string>
+	<string name="layout_style_2">Verticaal</string>
+	<string name="no_limit">Geen limiet</string>
+	<string name="one_hour">1 uur</string>
+	<string name="three_hours">3 uur</string>
+	<string name="six_hours">6 uur</string>
+	<string name="twelve_hours">12 uur</string>
+	<string name="one_day">1 dag</string>
+	<string name="two_days">2 dag</string>
+	<string name="app_filter_time_title">Actief sinds</string>
+	<string name="close_help">Sluit overlay</string>
+	<string name="close">Sluit</string>
+	<string name="thumb_size_title">Thumbnail grote</string>
+	<string name="thumb_size_normal">Normaal</string>
+	<string name="thumb_size_small">Klein</string>
+	<string name="lock_app_not_enabled">Scherm pinnen is niet ingeschakeld in veiligheids instellingen</string>
+	<string name="app_filter_running_title">Alleen Geopende</string>
+	<string name="enable_title">Schakel in</string>
+	<string name="adjust_handle_width">Breedte</string>
+	<string name="adjust_handle_position">Positie</string>
+	<string name="package_top_task_title">Boven</string>
+	<string name="package_left_task_title">Links</string>
+	<string name="package_bottom_task_title">Onder</string>
+	<string name="package_right_task_title">Rechts</string>
+	<string name="package_full_task_title">Volledige grote</string>
+	<string name="shortcut_label_toggle_overlay">Overlay oproepen</string>
+	<string name="adjust_handle_title_new">Sleep hendel opties</string>
+	<string name="adjust_handle_summary">Stel positie, maat en kleur in</string>
+</resources>
